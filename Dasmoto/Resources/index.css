@@ -3,26 +3,24 @@ body{
 }
 h1{
   font-size: 100px;
-  font-weight: bold;
   color: khaki;
   text-align: center;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
-#Brushes h2{
-  font-size: 32px;
-  font-weight: bold;
+h2{
+   font-size: 32px;
   color: white;
+}
+  
+#Brushes h2{
   background-color: mediumspringgreen;
 }
 #Frames h2{
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
   background-color: lightcoral;
 }
 #Paint h2{
   font-size: 32px;
-  font-weight: bold;
+ 
   color: white;
   background-color: skyblue;
 }
